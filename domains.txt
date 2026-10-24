@@ -1,4 +1,33 @@
-# One domain per line. Remove the leading # from an example only after replacing it.
-# ads.example.com
-# metrics.example.net
+# One domain per line. Lines beginning with # are comments.
+
+# Microsoft ads
 ads.microsoft.com
+
+# Analytics and telemetry
+assets.adobedtm.com
+a.clarity.ms
+scripts.clarity.ms
+realtime.luckyorange.com
+
+# Social pixels
+graph.facebook.com
+connect.facebook.net
+www.facebook.com
+
+# Mobile ads and attribution
+gdpr.adjust.com
+config.ads.vungle.com
+
+# Error tracking, monitoring, and session replay
+o0.ingest.sentry.io
+browser.sentry-cdn.com
+sentry.io
+app.bugsnag.com
+api.bugsnag.com
+cdn.lr-ingest.com
+r.lr-ingest.com
+bam-cell.nr-data.net
+
+# Affiliate and conversion tracking
+impact.com
+trk.impact.com
