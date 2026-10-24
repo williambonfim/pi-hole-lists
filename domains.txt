@@ -1,0 +1,4 @@
+# One domain per line. Remove the leading # from an example only after replacing it.
+# ads.example.com
+# metrics.example.net
+ads.microsoft.com
