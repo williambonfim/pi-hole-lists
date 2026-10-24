@@ -8,6 +8,10 @@ assets.adobedtm.com
 a.clarity.ms
 scripts.clarity.ms
 realtime.luckyorange.com
+samsung-com.112.2o7.net
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+weather-analytics-events.apple.com
 
 # Social pixels
 graph.facebook.com
